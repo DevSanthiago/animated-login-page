@@ -64,7 +64,7 @@ git clone https://github.com/seu-usuario/solo-leveling-gallery.git
 
 2. Abra o arquivo `index.html` no seu navegador preferido
 
-3. Ou acesse online: [Link para Deploy](#) *(https://johnreiiss.github.io/animated-login-page/)*
+3. Ou acesse online: [Link para Deploy](https://template-animated-login-page.netlify.app/) *(https://johnreiiss.github.io/animated-login-page/)*
 
 ## 📌 Captura de Tela
 ![image](https://github.com/user-attachments/assets/4f2fc607-b5ef-46e4-ba02-02e7bcae8cfa)
