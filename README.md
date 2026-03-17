@@ -59,7 +59,7 @@ Este projeto está sob a licença **MIT**. Fique à vontade para usar, estudar, 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/solo-leveling-gallery.git
+git clone https://github.com/DevSanthiago/animated-login-page.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador preferido
